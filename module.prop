@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=multi_user
+name=Enable Multi User
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=jin357
+description=Enable Multi User
 minMagisk=1500
